@@ -1,3 +1,5 @@
+# IDE
+.idea
 .*.swp
 node_modules
 lib
